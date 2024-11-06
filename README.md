@@ -27,7 +27,7 @@ Type 2 to view attendance (summary or detailed).
 
 ### Add Attendance:
 
-Enter the student's name, subject (e.g., Eng, Math, Chem), and date (dd/mm/yy format).
+Enter the student's name, subject (Eng, Math, Chem), and date (dd/mm/yy format).
 
 ### View Attendance:
 
